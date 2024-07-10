@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.S7AlcoholOuGasolina" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/azul</item>
+    </style>
+
+    <style name="Theme.S7AlcoholOuGasolina" parent="Base.Theme.S7AlcoholOuGasolina" />
+</resources>
